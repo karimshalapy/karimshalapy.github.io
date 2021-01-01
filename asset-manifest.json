@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.c07b0cb6.chunk.js",
-    "main.js.map": "/static/js/main.c07b0cb6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6ee31ba7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6ee31ba7.js.map",
-    "static/js/2.02c2d687.chunk.js": "/static/js/2.02c2d687.chunk.js",
-    "static/js/2.02c2d687.chunk.js.map": "/static/js/2.02c2d687.chunk.js.map",
-    "static/js/3.f72d2e7a.chunk.js": "/static/js/3.f72d2e7a.chunk.js",
-    "static/js/3.f72d2e7a.chunk.js.map": "/static/js/3.f72d2e7a.chunk.js.map",
+    "main.css": "/static/css/main.71f77295.chunk.css",
+    "main.js": "/static/js/main.1b0907f0.chunk.js",
+    "main.js.map": "/static/js/main.1b0907f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f7206dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f7206dc.js.map",
+    "static/js/2.2f5ca069.chunk.js": "/static/js/2.2f5ca069.chunk.js",
+    "static/js/2.2f5ca069.chunk.js.map": "/static/js/2.2f5ca069.chunk.js.map",
+    "static/js/3.28b38f9d.chunk.js": "/static/js/3.28b38f9d.chunk.js",
+    "static/js/3.28b38f9d.chunk.js.map": "/static/js/3.28b38f9d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.02c2d687.chunk.js.LICENSE.txt": "/static/js/2.02c2d687.chunk.js.LICENSE.txt"
+    "static/css/main.71f77295.chunk.css.map": "/static/css/main.71f77295.chunk.css.map",
+    "static/js/2.2f5ca069.chunk.js.LICENSE.txt": "/static/js/2.2f5ca069.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/SFMono-SemiboldItalic.9a0ae638.woff2",
+    "static/media/Logo.4a5fba05.svg": "/static/media/Logo.4a5fba05.svg",
+    "static/media/codepen.cf719638.svg": "/static/media/codepen.cf719638.svg",
+    "static/media/external.6246dcfb.svg": "/static/media/external.6246dcfb.svg",
+    "static/media/github.b5221499.svg": "/static/media/github.b5221499.svg",
+    "static/media/hackerrank.93f98f7d.svg": "/static/media/hackerrank.93f98f7d.svg",
+    "static/media/linkedin.3a8f1162.svg": "/static/media/linkedin.3a8f1162.svg",
+    "static/media/me.3e5acb8d.jpg": "/static/media/me.3e5acb8d.jpg",
+    "static/media/twitter.7490adcd.svg": "/static/media/twitter.7490adcd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ee31ba7.js",
-    "static/js/2.02c2d687.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c07b0cb6.chunk.js"
+    "static/js/runtime-main.8f7206dc.js",
+    "static/js/2.2f5ca069.chunk.js",
+    "static/css/main.71f77295.chunk.css",
+    "static/js/main.1b0907f0.chunk.js"
   ]
 }

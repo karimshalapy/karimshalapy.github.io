@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.114c0629.chunk.css",
-    "main.js": "/static/js/main.ca30720b.chunk.js",
-    "main.js.map": "/static/js/main.ca30720b.chunk.js.map",
+    "main.js": "/static/js/main.276996e1.chunk.js",
+    "main.js.map": "/static/js/main.276996e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2ceaddc1.js",
     "runtime-main.js.map": "/static/js/runtime-main.2ceaddc1.js.map",
     "static/js/2.13ca2546.chunk.js": "/static/js/2.13ca2546.chunk.js",
@@ -23,7 +23,7 @@
     "static/media/hackerrank.93f98f7d.svg": "/static/media/hackerrank.93f98f7d.svg",
     "static/media/instagram.49198a85.svg": "/static/media/instagram.49198a85.svg",
     "static/media/linkedin.3a8f1162.svg": "/static/media/linkedin.3a8f1162.svg",
-    "static/media/me.9e942b9a.jpg": "/static/media/me.9e942b9a.jpg",
+    "static/media/me.f9f9ff2f.jpg": "/static/media/me.f9f9ff2f.jpg",
     "static/media/playstore.9f48d502.svg": "/static/media/playstore.9f48d502.svg",
     "static/media/star.28804bf1.svg": "/static/media/star.28804bf1.svg",
     "static/media/twitter.7490adcd.svg": "/static/media/twitter.7490adcd.svg",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.2ceaddc1.js",
     "static/js/2.13ca2546.chunk.js",
     "static/css/main.114c0629.chunk.css",
-    "static/js/main.ca30720b.chunk.js"
+    "static/js/main.276996e1.chunk.js"
   ]
 }
